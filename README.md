@@ -30,10 +30,6 @@ The CSV file used in this tool contains the following columns:
 - دوره
 - وضعیت
 
-## Language Support
-
-The tool supports both English and Persian languages. You can switch the language using the "Switch Language" button at the top of the page.
-
 ## License
 
 This project is licensed under the MIT License.
