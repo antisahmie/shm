@@ -164,6 +164,28 @@ table th {
     max-width: 100%;
 }
 
+
+  #creator-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: #f8f9fa;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#creator-info a {
+    color: #1DA1F2;
+    text-decoration: none;
+}
+
+#creator-info a:hover {
+    text-decoration: underline;
+}
+
 /* Add this CSS for mobile devices (max-width: 768px) */
 @media screen and (max-width: 768px) {
     /* Remove the 'table' rule from here */
